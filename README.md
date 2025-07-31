@@ -1,11 +1,5 @@
 # Hi there 👋
 
-<p align="center">
-  <a href="https://github.com/liehaoli">
-    <img src="https://komarev.com/ghpvc/?username=liehaoli&label=Profile%20views&color=0e75b6&style=flat" alt="liehaoli" />
-  </a>
-</p>
-
 ---
 
 ### 👨‍💻 关于我 (About Me)
@@ -41,7 +35,7 @@
 
 <p align="center">
   <a href="https://leetcode.cn/u/tutu-54/">
-    <img src="https://leetcard.jacoblin.cool/tutu-54?theme=dark&cn=true&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/leetcode?username=tutu-54&site=cn&theme=dark&locale=zh-CN" alt="tutu-54's LeetCode Stats" />
   </a>
 </p>
 
