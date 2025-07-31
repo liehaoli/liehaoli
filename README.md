@@ -17,6 +17,7 @@
   - 学习一切能够满足我对世界好奇心的新知识。
 - 📫 **如何联系我 (How to reach me)**:
   - **Email**: [liehao@bupt.edu.cn](mailto:liehao@bupt.edu.cn)
+  - **Bilibili**: AI的豪
 
 ---
 
