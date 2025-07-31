@@ -30,13 +30,3 @@
 </p>
 
 ---
-
-### 📊 我的统计数据 (My Stats)
-
-<p align="center">
-  <a href="https://leetcode.cn/u/tutu-54/">
-    <img src="https://github-readme-stats.vercel.app/api/leetcode?username=tutu-54&site=cn&theme=dark&locale=zh-CN" alt="tutu-54's LeetCode Stats" />
-  </a>
-</p>
-
----
