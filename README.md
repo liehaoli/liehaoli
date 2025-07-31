@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://leetcode.cn/u/tutu-54/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=tutu-54&theme=dark&cn" alt="LeetCode Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/leetcode?username=tutu-54&site=cn&theme=dark&locale=zh-CN&font_size=14" alt="tutu-54's LeetCode Stats" />
   </a>
 </p>
 
