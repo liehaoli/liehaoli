@@ -10,7 +10,7 @@
 
 ### 👨‍💻 关于我 (About Me)
 
-- 🎓 我是 **liehaoli**，人生三大关键词分别是：爱情，死亡与机器人。
+- 🎓 我是 **liehaoli**，相信人生三大关键词是爱死机的intj紫老头。
 - 🏫 **教育背景 (Education)**:
   - **北京邮电大学 (BUPT)**, 人工智能学院, 2021 ~ 2025 (本科)
   - **北京航空航天大学 (BUAA)**, 计算机学院, 博士研究生在读
@@ -40,14 +40,8 @@
 ### 📊 我的统计数据 (My Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liehaoli&show_icons=true&theme=radical" alt="liehaoli's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liehaoli&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/Tutu/">
-    <img src="https://leetcode-stats-six.vercel.app/?username=Tutu&theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/tutu-54/">
+    <img src="https://leetcode-stats-six.vercel.app/?username=tutu-54&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
