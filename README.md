@@ -40,7 +40,7 @@
 ### 📊 我的统计数据 (My Stats)
 
 <p align="center">
-  <a href="https://leetcode.com/tutu-54/">
+  <a href="https://leetcode.cn/tutu-54/">
     <img src="https://leetcode-stats-six.vercel.app/?username=tutu-54&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
