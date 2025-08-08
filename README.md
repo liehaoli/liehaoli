@@ -1,33 +1,34 @@
 # Hi there 👋
 
----
+-----
 
-### 👨‍💻 关于我 (About Me)
+### 👨‍💻 About Me
 
-- 🎓 我是 **liehaoli**，人生信仰是爱死机。
-- 🏫 **教育背景 (Education)**:
-  - **北京邮电大学 (BUPT)**, 人工智能学院, 2021 ~ 2025 (本科)
-  - **北京航空航天大学 (BUAA)**, 计算机学院, 博士研究生在读
-- 🔭 **研究方向 (Research Interests)**:
-  - 🤖 大语言模型 (Large Language Models)
-  - 🧠 人工智能体 (AI Agents)
-  - 🚀 强化学习 (Reinforcement Learning)
-- 🏀 **兴趣爱好 (Hobbies)**:
-  - 我热爱打篮球，享受团队合作和竞技的乐趣。
-  - 学习一切能够满足我对世界好奇心的新知识。
-- 📫 **如何联系我 (How to reach me)**:
-  - **Email**: [liehao@bupt.edu.cn](mailto:liehao@bupt.edu.cn)
-  - **Bilibili**: AI的豪
+  - 🎓 I am **liehaoli**, and my life's belief is "Love, Death & Robots."
+  - 🏫 **Education**:
+      - **Beijing University of Posts and Telecommunications (BUPT)**, School of Artificial Intelligence, 2021 \~ 2025 (Bachelor)
+      - **Beihang University (BUAA)**, School of Computer Science, PhD Candidate
+  - 🔭 **Research Interests**:
+      - 🤖 Large Language Models
+      - 🧠 AI Agents
+      - 🚀 Reinforcement Learning
+  - 🏀 **Hobbies**:
+      - I love playing basketball and enjoy the fun of teamwork and competition.
+      - Learning any new knowledge that can satisfy my curiosity about the world.
+      - I like to study alien reports.
+  - 📫 **How to reach me**:
+      - **Email**: [liehao@bupt.edu.cn](mailto:liehao@bupt.edu.cn)
+      - **Bilibili**: AI的豪
 
----
+-----
 
-### 🚀 我的技术栈 (My Tech Stack)
+### 🚀 My Tech Stack
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-</p>
+\<p align="left"\>
+\<a href="[https://www.python.org](https://www.python.org)" target="\_blank"\> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)" alt="python" width="40" height="40"/\> \</a\>
+\<a href="[https://pytorch.org/](https://pytorch.org/)" target="\_blank"\> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg)" alt="pytorch" width="40" height="40"/\> \</a\>
+\<a href="[https://www.tensorflow.org](https://www.tensorflow.org)" target="\_blank"\> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg)" alt="tensorflow" width="40" height="40"/\> \</a\>
+\<a href="[https://git-scm.com/](https://git-scm.com/)" target="\_blank"\> \<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)" alt="git" width="40" height="40"/\> \</a\>
+\</p\>
 
----
+-----
