@@ -14,7 +14,7 @@
   - 🏀 **Hobbies**:
       - Basketball of course, Aha, I can dunk anyway.
       - Interesting knowledge is all I need!
-      - Playing Electronic Games! What about Residen Evil Series?
+      - Playing Electronic Games! What about Resident Evil Series?
   - 📫 **How to reach me**:
       - **Email**: [liehao@buaa.edu.cn](mailto:liehao@buaa.edu.cn)
       - **Bilibili**: AI的豪
