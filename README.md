@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 
-  - 🎓 I am **liehao**, and my life's belief is "Love, Death & Robots."
+  - 🎓 I am **liehao**, and my life's belief is "Love, Death & Robots." (I bet you watched this before on Netflex hh)
   - 🏫 **Education**:
       - **Beijing University of Posts and Telecommunications (BUPT)**, School of Artificial Intelligence, 2021 \~ 2025 (Bachelor)
       - **Beihang University (BUAA)**, School of Computer Science, PhD Candidate
