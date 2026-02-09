@@ -6,7 +6,7 @@
 
   - 🎓 I am **liehao**, and my life's belief is "Love, Death & Robots." (I bet you watched this before on Netflex hh)
   - 🏫 **Education**:
-      - **Beijing University of Posts and Telecommunications (BUPT)**, School of Artificial Intelligence, 2021 \~ 2025 (Bachelor)
+      - **Beijing University of Posts and Telecommunications (BUPT)**, School of Artificial Intelligence, 2021 ~ 2025 (Bachelor)
       - **Beihang University (BUAA)**, School of Computer Science, PhD Candidate
   - 🔭 **Research Interests**:
       - 🤖 Large Language Models for SE.
@@ -20,3 +20,4 @@
       - **Bilibili**: AI的豪
 
 ---
+仓库于2026年2月9日起停止维护
