@@ -8,7 +8,7 @@ Beyond research, I write on my personal blog about ideas and reflections on AI, 
 
 ## Find me around the web
 
-🌐 **Blog:** [liehaoli.github.io](https://liehaoli.github.io/)
+📝 **Blog:** [liehaoli.github.io](https://liehaoli.github.io/)
 
 🎓 **Google Scholar:** [Liehao Li](https://scholar.google.com/citations?user=Gg09s0AAAAAJ&hl=en)
 
